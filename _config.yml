@@ -10,8 +10,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "One day Git workshop"
 
+# Contact email address.
+email: organizers@swcarpentry.uio.no
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -44,8 +46,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://github.com/carpentries/workshop-template"
-workshop_site: "https://carpentries.github.io/workshop-template"
+workshop_repo: "https://github.com/uio-carpentry/2018-10-24-Git"
+workshop_site: "https://uio-carpentry.github.io/2018-10-24-Git/"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
